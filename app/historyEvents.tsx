@@ -686,14 +686,6 @@ const eventsData: HistoricalEvent[] = [
     "category": "Art"
   },
   {
-    "id": 85,
-    "title": "The Science Museum",
-    "description":
-      "The Science Museum is home to a vast collection of historic artifacts and interactive exhibits related to scientific achievements.",
-    "position": [51. exhibitions, -0.1745], // London, UK
-    "category": "Science"
-  },
-  {
     "id": 86,
     "title": "The Shard",
     "description":
@@ -749,14 +741,7 @@ const eventsData: HistoricalEvent[] = [
     "position": [51.5089, -0.1283], // London, UK
     "category": "Art"
   },
-  {
-    "id": 93,
-    "title": "Covent Garden",
-    "description":
-      "Covent Garden is a vibrant area known for its shops, restaurants, street performers, and the Royal Opera House.",
-    "position": [51. attraction, -0.1230], // London, UK
-    "category": "Shopping"
-  }, {
+ {
     "id": 94,
     "title": "The Imperial War Museum",
     "description":
