@@ -638,6 +638,284 @@ const eventsData: HistoricalEvent[] = [
     position: [51.4911, -0.1278], // London, UK
     category: "Art",
   },
+  {
+    "id": 79,
+    "title": "The British Museum",
+    "description":
+      "The British Museum, founded in 1753, is dedicated to human history, art, and culture, housing over 8 million works.",
+    "position": [51.5194, -0.1270], // London, UK
+    "category": "History"
+  },
+  {
+    "id": 80,
+    "title": "The Tower of London",
+    "description":
+      "The Tower of London, a historic castle on the north bank of the River Thames, has served various roles, including royal palace and prison.",
+    "position": [51.5081, -0.0759], // London, UK
+    "category": "History"
+  },
+  {
+    "id": 81,
+    "title": "The London Eye",
+    "description":
+      "The London Eye, a giant Ferris wheel on the South Bank of the River Thames, offers stunning views of the city.",
+    "position": [51.5033, -0.1195], // London, UK
+    "category": "Attraction"
+  },
+  {
+    "id": 82,
+    "title": "The Natural History Museum",
+    "description":
+      "The Natural History Museum is famous for its dinosaur skeletons and a vast range of specimens from various segments of natural history.",
+    "position": [51.4967, -0.1764], // London, UK
+    "category": "Science"
+  },
+  {
+    "id": 83,
+    "title": "Buckingham Palace",
+    "description":
+      "Buckingham Palace is the London residence and administrative headquarters of the monarch of the United Kingdom.",
+    "position": [51.5014, -0.1419], // London, UK
+    "category": "Monarch"
+  },{
+    "id": 84,
+    "title": "The Victoria and Albert Museum",
+    "description":
+      "The V&A Museum is the world's largest museum of decorative arts and design, with a collection of over 2.3 million objects.",
+    "position": [51.4962, -0.1725], // London, UK
+    "category": "Art"
+  },
+  {
+    "id": 85,
+    "title": "The Science Museum",
+    "description":
+      "The Science Museum is home to a vast collection of historic artifacts and interactive exhibits related to scientific achievements.",
+    "position": [51. exhibitions, -0.1745], // London, UK
+    "category": "Science"
+  },
+  {
+    "id": 86,
+    "title": "The Shard",
+    "description":
+      "The Shard is a 95-story skyscraper that is the tallest building in the UK, offering panoramic views from its viewing platform.",
+    "position": [51.5045, -0.0865], // London, UK
+    "category": "Architecture"
+  },
+  {
+    "id": 87,
+    "title": "The Royal Parks",
+    "description":
+      "London's Royal Parks are a collection of eight beautiful parks, including Hyde Park and Kensington Gardens.",
+    "position": [51.5074, -0.1657], // London, UK
+    "category": "Nature"
+  },
+  {
+    "id": 88,
+    "title": "St. Paul's Cathedral",
+    "description":
+      "St. Paul's Cathedral, an iconic London landmark, features a magnificent dome and has been the site of many important events.",
+    "position": [51.5138, -0.0984], // London, UK
+    "category": "Religion"
+  },
+  {
+    "id": 89,
+    "title": "The West End",
+    "description":
+      "The West End is London's theater district, known for its vibrant performances and musicals.",
+    "position": [51.5122, -0.1340], // London, UK
+    "category": "Entertainment"
+  },
+  {
+    "id": 90,
+    "title": "The Tate Modern",
+    "description":
+      "The Tate Modern is a modern art gallery housed in a former power station, showcasing international contemporary art.",
+    "position": [51.5076, -0.0994], // London, UK
+    "category": "Art"
+  },
+  {
+    "id": 91,
+    "title": "The Globe Theatre",
+    "description":
+      "Shakespeare's Globe Theatre is a reconstruction of the original playhouse, offering performances and tours.",
+    "position": [51.5033, -0.0972], // London, UK
+    "category": "Theater"
+  },
+  {
+    "id": 92,
+    "title": "The National Gallery",
+    "description":
+      "The National Gallery houses a rich collection of Western European paintings from the 13th to the 19th centuries.",
+    "position": [51.5089, -0.1283], // London, UK
+    "category": "Art"
+  },
+  {
+    "id": 93,
+    "title": "Covent Garden",
+    "description":
+      "Covent Garden is a vibrant area known for its shops, restaurants, street performers, and the Royal Opera House.",
+    "position": [51. attraction, -0.1230], // London, UK
+    "category": "Shopping"
+  }, {
+    "id": 94,
+    "title": "The Imperial War Museum",
+    "description":
+      "The Imperial War Museum offers a fascinating insight into the impact of war on society, featuring exhibitions on various conflicts.",
+    "position": [51.4951, -0.1085], // London, UK
+    "category": "History"
+  },
+  {
+    "id": 95,
+    "title": "Kensington Palace",
+    "description":
+      "Kensington Palace is a royal residence with beautiful gardens and exhibitions about the lives of the royal family.",
+    "position": [51.5042, -0.1948], // London, UK
+    "category": "Monarch"
+  },
+  {
+    "id": 96,
+    "title": "The O2 Arena",
+    "description":
+      "The O2 Arena is a multi-purpose indoor arena hosting concerts, sports events, and exhibitions.",
+    "position": [51.5006, 0.0033], // London, UK
+    "category": "Entertainment"
+  },
+  {
+    "id": 97,
+    "title": "Camden Market",
+    "description":
+      "Camden Market is known for its diverse stalls, offering unique clothing, crafts, and international food.",
+    "position": [51.5415, -0.1426], // London, UK
+    "category": "Shopping"
+  },
+  {
+    "id": 98,
+    "title": "The Serpentine Gallery",
+    "description":
+      "The Serpentine Gallery in Kensington Gardens focuses on contemporary art and hosts temporary exhibitions.",
+    "position": [51.5075, -0.1753], // London, UK
+    "category": "Art"
+  },
+  {
+    "id": 99,
+    "title": "Leicester Square",
+    "description":
+      "Leicester Square is a vibrant entertainment hub known for cinemas, theaters, and bustling nightlife.",
+    "position": [51.5111, -0.1324], // London, UK
+    "category": "Entertainment"
+  },
+  {
+    "id": 100,
+    "title": "The Royal Observatory",
+    "description":
+      "The Royal Observatory in Greenwich is famous for its historic role in the history of astronomy and navigation.",
+    "position": [51.4769, -0.0015], // London, UK
+    "category": "Science"
+  },
+  {
+    "id": 101,
+    "title": "The Borough Market",
+    "description":
+      "Borough Market is one of London’s oldest food markets, offering a range of gourmet food and fresh produce.",
+    "position": [51.5041, -0.0915], // London, UK
+    "category": "Food"
+  },
+  {
+    "id": 102,
+    "title": "Trafalgar Square",
+    "description":
+      "Trafalgar Square is a famous public square in London, home to the National Gallery and Nelson's Column.",
+    "position": [51.5089, -0.1283], // London, UK
+    "category": "Landmark"
+  },
+  {
+    "id": 103,
+    "title": "The Chelsea Physic Garden",
+    "description":
+      "The Chelsea Physic Garden is a historic botanical garden focused on medicinal plants and herbs.",
+    "position": [51.4820, -0.1761], // London, UK
+    "category": "Nature"
+  },
+   {
+    "id": 104,
+    "title": "Hampstead Heath",
+    "description":
+      "Hampstead Heath is a large, ancient park offering stunning views of the London skyline and a variety of wildlife.",
+    "position": [51.5583, -0.1634], // London, UK
+    "category": "Nature"
+  },
+  {
+    "id": 105,
+    "title": "The London Zoo",
+    "description":
+      "The London Zoo is one of the oldest zoos in the world, featuring a diverse collection of animals and conservation programs.",
+    "position": [51.5362, -0.1537], // London, UK
+    "category": "Wildlife"
+  },
+  {
+    "id": 106,
+    "title": "The Museum of London",
+    "description":
+      "The Museum of London showcases the history of London from prehistoric times to the present day.",
+    "position": [51.5194, -0.0984], // London, UK
+    "category": "History"
+  },
+  {
+    "id": 107,
+    "title": "The Design Museum",
+    "description":
+      "The Design Museum is dedicated to contemporary design in every form, including fashion, architecture, and graphic design.",
+    "position": [51.4913, -0.2002], // London, UK
+    "category": "Art"
+  },
+  {
+    "id": 108,
+    "title": "The Cutty Sark",
+    "description":
+      "The Cutty Sark is a famous tea clipper ship, now a museum showcasing maritime history and the ship's story.",
+    "position": [51.4814, -0.0135], // London, UK
+    "category": "History"
+  },
+  {
+    "id": 109,
+    "title": "The Globe Theatre Tour",
+    "description":
+      "The Globe Theatre offers guided tours that delve into the history of Shakespeare and the theatre's architecture.",
+    "position": [51.5033, -0.0972], // London, UK
+    "category": "Theater"
+  },
+  {
+    "id": 110,
+    "title": "The Sky Garden",
+    "description":
+      "The Sky Garden is a public garden set atop a skyscraper, providing panoramic views and a lush green space.",
+    "position": [51.6111, -0.0802], // London, UK
+    "category": "Architecture"
+  },
+  {
+    "id": 111,
+    "title": "Wembley Stadium",
+    "description":
+      "Wembley Stadium is an iconic venue for sports and entertainment, known for its arch and hosting major events.",
+    "position": [51.5559, -0.2796], // London, UK
+    "category": "Sports"
+  },
+  {
+    "id": 112,
+    "title": "The National Portrait Gallery",
+    "description":
+      "The National Portrait Gallery is home to a collection of portraits of historically important British figures.",
+    "position": [51.4976, -0.1270], // London, UK
+    "category": "Art"
+  },
+  {
+    "id": 113,
+    "title": "The London Aquarium",
+    "description":
+      "The London Aquarium is home to thousands of marine animals, offering educational experiences and interactive displays.",
+    "position": [51.5030, -0.1198], // London, UK
+    "category": "Wildlife"
+  }
 ];
 
 export default eventsData;
