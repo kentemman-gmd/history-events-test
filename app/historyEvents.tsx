@@ -28,6 +28,6 @@ const generateRandomEvent = (id: number): HistoricalEvent => {
   };
 };
 
-const eventsData: HistoricalEvent[] = Array.from({ length: 1000000 }, (_, index) => generateRandomEvent(index + 1));
+const eventsData: HistoricalEvent[] = Array.from({ length: 100000 }, (_, index) => generateRandomEvent(index + 1));
 
 export default eventsData;
